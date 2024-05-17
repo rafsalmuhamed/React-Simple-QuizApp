@@ -10,7 +10,7 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f9f9f9;
-    margin-top: 200px;
+    margin-top: 100px;
     background-color: rgb(220, 234, 239);
     
   }
@@ -27,6 +27,7 @@
     border-radius: 10px;
     padding: 10px 15px;
     box-shadow: 1px 1px 1px 1px rgb(195, 189, 189);
+    color: rgb(17, 12, 12);
   }
   
   .question-section {
@@ -67,16 +68,16 @@
     border: 1px solid rgb(20, 12, 12);
     border-radius: 15px;
     color: rgb(20, 12, 12);
+    box-shadow: rgba(78, 52, 52, 0.35) 0px 2px 5px;
+
   }
   
   .btn:hover {
     background-color: #e0e0e0;
-    box-shadow: rgba(251, 241, 241, 0.35) 0px 5px 15px;
+    box-shadow: rgba(251, 241, 241, 0.35) 0px 2px 5px;
   }
   
-  button:active {
-    background-color: #ccc;
-  }
+  
   
   .score-section {
     text-align: center;
